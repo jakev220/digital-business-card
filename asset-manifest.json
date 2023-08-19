@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/jakev220/digital-business-card.git/static/css/main.073c9b0a.css",
+    "main.js": "/jakev220/digital-business-card.git/static/js/main.dc9f7e75.js",
+    "static/js/787.9644e733.chunk.js": "/jakev220/digital-business-card.git/static/js/787.9644e733.chunk.js",
+    "static/media/logo.svg": "/jakev220/digital-business-card.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/jakev220/digital-business-card.git/index.html",
+    "main.073c9b0a.css.map": "/jakev220/digital-business-card.git/static/css/main.073c9b0a.css.map",
+    "main.dc9f7e75.js.map": "/jakev220/digital-business-card.git/static/js/main.dc9f7e75.js.map",
+    "787.9644e733.chunk.js.map": "/jakev220/digital-business-card.git/static/js/787.9644e733.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.dc9f7e75.js"
+  ]
+}
